@@ -1,0 +1,30 @@
+#heading{
+    text-align: left;
+    margin-bottom: 0px;
+    font-size: 2em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    color:crimson
+}
+#color{
+    float: right;
+    margin-right: 15px;
+}
+#wrapper{
+  height:90vh;
+  width:100wh;
+  background:#87ffcc;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+#btn{
+  background:#99ddff;
+  border:1px solid #000;
+  padding:20px 80px;
+  border-radius:20px;
+  font-size:25px;
+  letter-spacing:4px;
+  cursor:pointer;
+}
